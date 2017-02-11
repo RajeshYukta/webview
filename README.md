@@ -27,7 +27,6 @@ If you want to create an app that displays the contents of a remote website
 	```
 	if (Uri.parse(url).getHost().endsWith("example.com")) {
 	```
-
 ### Using a local source
 
 If you want to create a local HTML5 android app
